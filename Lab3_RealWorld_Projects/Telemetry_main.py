@@ -1,6 +1,6 @@
 # APPENDIX #3
 import time
-import Lab3_RealWorld_Projects.Telemetry_data as Telemetry_data
+import Telemetry_data
 
 LAST_NAME = "MAKINANO"
 SEED_NUM = 6
